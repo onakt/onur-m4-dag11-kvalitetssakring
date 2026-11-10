@@ -12,7 +12,7 @@ Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 - [X] Alla länkar går någonstans (testa dem)
 
 ## Tillgänglighet
-- [ ] Alla bilder har alt-text som beskriver bilden
+- [X] Alla bilder har alt-text som beskriver bilden
 - [ ] Alla formulärfält har en kopplad `label`
 - [ ] Alla knappar är `<button>` (inte `<div>`)
 - [ ] All text klarar kontrast 4,5:1

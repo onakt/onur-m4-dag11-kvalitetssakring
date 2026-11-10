@@ -53,6 +53,11 @@ article img,
   border-radius: var(--radius);
 }
 
+/* Inte så fin css, men löser problemet med spacing mellan knapparna i mobil version */
+#hero .knapp + .knapp {
+  margin-top: 12px;
+}
+
 #hero p {
   font-size: var(--fs-lead);
   max-width: 60ch;
