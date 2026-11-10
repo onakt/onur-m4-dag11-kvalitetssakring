@@ -52,17 +52,19 @@ Kontrollera 360, 768 och 1280 px i DevTools.
 
 Kör Lighthouse Accessibility på `index.html` igen och skriv upp poängen (efter). Den ska ha gått upp.
 
+![Lighthouse Accessibility Score - After](screenshots/lighthouse-efter.png)
+
 ### Steg 8. Skicka upp
 
 `git push` och kontrollera att GitHub Pages visar rätt version.
 
 ## Kontrollista: så vet du att du är klar
 
-- [ ] Du har hittat och rättat alla tio avsiktliga fel, med en commit per fel.
+- [X] Du har hittat och rättat alla tio avsiktliga fel, med en commit per fel.
 - [ ] Du har skrivit upp Lighthouse-poängen före och efter.
-- [ ] Båda sidorna validerar utan fel.
-- [ ] Tangentbordsnavigeringen fungerar överallt.
-- [ ] Ingen horisontell scroll på 360 px.
+- [X] Båda sidorna validerar utan fel.
+- [X] Tangentbordsnavigeringen fungerar överallt.
+- [X] Ingen horisontell scroll på 360 px.
 - [ ] Allt är pushat och live-sidan visar rätt version.
 
 ## Tips om du fastnar
