@@ -61,11 +61,11 @@ Kör Lighthouse Accessibility på `index.html` igen och skriv upp poängen (efte
 ## Kontrollista: så vet du att du är klar
 
 - [X] Du har hittat och rättat alla tio avsiktliga fel, med en commit per fel.
-- [ ] Du har skrivit upp Lighthouse-poängen före och efter.
+- [X] Du har skrivit upp Lighthouse-poängen före och efter.
 - [X] Båda sidorna validerar utan fel.
 - [X] Tangentbordsnavigeringen fungerar överallt.
 - [X] Ingen horisontell scroll på 360 px.
-- [ ] Allt är pushat och live-sidan visar rätt version.
+- [X] Allt är pushat och live-sidan visar rätt version.
 
 ## Tips om du fastnar
 

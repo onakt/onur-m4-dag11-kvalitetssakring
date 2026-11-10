@@ -15,22 +15,22 @@ Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 - [X] Alla bilder har alt-text som beskriver bilden
 - [X] Alla formulärfält har en kopplad `label`
 - [X] Alla knappar är `<button>` (inte `<div>`)
-- [ ] All text klarar kontrast 4,5:1
-- [ ] Du kan använda hela sidan med bara tangentbordet
-- [ ] Fokus syns alltid
+- [X] All text klarar kontrast 4,5:1
+- [X] Du kan använda hela sidan med bara tangentbordet
+- [X] Fokus syns alltid
 
 ## CSS
-- [ ] `box-sizing: border-box` är satt
-- [ ] Färger och avstånd kommer från variabler
-- [ ] Inga oanvända eller felstavade klasser
-- [ ] Filerna är uppdelade och logiskt namngivna
+- [X] `box-sizing: border-box` är satt
+- [X] Färger och avstånd kommer från variabler
+- [X] Inga oanvända eller felstavade klasser
+- [X] Filerna är uppdelade och logiskt namngivna
 
 ## Responsivitet
-- [ ] Ingen horisontell scroll på 360 px
-- [ ] Fungerar på 360, 768 och 1280 px
-- [ ] Bilder och formulärfält anpassar sig
+- [X] Ingen horisontell scroll på 360 px
+- [X] Fungerar på 360, 768 och 1280 px
+- [X] Bilder och formulärfält anpassar sig
 
 ## Git och publicering
-- [ ] Commit per ändring, med begripliga meddelanden
-- [ ] Allt är pushat
-- [ ] Live-sidan visar senaste versionen
+- [X] Commit per ändring, med begripliga meddelanden
+- [X] Allt är pushat
+- [X] Live-sidan visar senaste versionen
